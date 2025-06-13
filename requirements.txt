@@ -1,0 +1,4 @@
+argparse
+numpy     
+opencv-python   
+setuptools 
